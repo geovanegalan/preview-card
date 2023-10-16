@@ -75,7 +75,7 @@ strong{
 }
 .more p {
     font-size: 13px;
-    color: hsla(0, 0%, 100%, 0.6);
+    color: var(--paragraphs);
     line-height: 1.5em;
     font-family: 'Inter Regular', sans-serif;
     text-transform: uppercase;
